@@ -1,0 +1,24 @@
+[project]
+name = "bank-marketing"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "João Rodrigues",email = "jao.rodrigues27@gmail.com"}
+]
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ipykernel (>=6.30.1,<7.0.0)",
+    "pandas (>=2.3.2,<3.0.0)",
+    "numpy (>=2.3.2,<3.0.0)",
+    "scikit-learn (>=1.7.1,<2.0.0)",
+    "matplotlib (>=3.10.5,<4.0.0)",
+    "seaborn (>=0.13.2,<0.14.0)",
+    "xgboost (>=3.0.4,<4.0.0)",
+    "scikit-optimize (>=0.10.2,<0.11.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
