@@ -161,7 +161,7 @@
 
 * ##  CatBoost
 
-![Melhores metricas do CatBoost](https://github.com/joaorodriguessneto/Bank_Marketing/blob/main/img/Metricas_Hiperparametros_LGBM_BayesSearch.png)
+![Melhores metricas do CatBoost](https://github.com/joaorodriguessneto/Bank_Marketing/blob/main/img/Metricas_Hiperparametros_BayesianSearch_CatBoost_.png)
 
 #### Os valores acima apresentam as métricas obtidas pelo Bayesian Search para o CatBoost.
 
